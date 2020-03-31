@@ -3,18 +3,21 @@
 ## 🔖 Como Executar
 
 #### Clonando o projeto
-
+```sh
 semana-omnistack-11
-npm install
 ```
 #### Iniciando Backend
+```sh
 npm install
 npm start
 ```
 #### Iniciando Frontend
+```sh
 npm install
 npm start
 ```
 #### Iniciando mobile
+```sh
 npm install
 npm start
+```
